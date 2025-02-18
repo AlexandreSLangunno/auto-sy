@@ -16,10 +16,22 @@ export_cookies = [
     # ... Outher 
 ]
 
-channel_name = "Channel Name" 
+
+channel_name = "Centro Espírita Irmão Áureo"
 
 titles = [
-    "Title 1",
-    "Title 2" 
-    # ...
+    "O Evangelho e a Família - Tratamento Espiritual",
+    "O Evangelho e a Mediunidade - Tratamento Espiritual",
+    "O Evangelho e a Depressão - Tratamento Espiritual",
+    "O Evangelho e a Saúde - Tratamento Espiritual",
+    "O Evangelho e a Desobsessão - Tratamento Espiritual",
+    ]
+
+visibility = [
+    "public",
+    "unlisted",
+    "private",
 ]
+
+hours = "24"
+minutes = "00"
